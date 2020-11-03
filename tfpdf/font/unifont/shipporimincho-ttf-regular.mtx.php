@@ -13,7 +13,7 @@ $desc=array (
 );
 $up=-525;
 $ut=50;
-$ttffile='/Applications/MAMP/htdocs/pdfcreater/tfpdf/font/unifont/ShipporiMincho-TTF-Regular.ttf';
+$ttffile=__DIR__.'/tfpdf/font/unifont/ShipporiMincho-TTF-Regular.ttf';
 $originalsize=10055444;
 $fontkey='shipporimincho';
 ?>
