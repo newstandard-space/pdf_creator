@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ .('/tfpdf/tfpdf.php');
+require ('/app/tfpdf/tfpdf.php');
 $pdf = new tFPDF;
 
 $pdf->AddFont('ShipporiMincho','','ShipporiMincho-TTF-Regular.ttf',true);
